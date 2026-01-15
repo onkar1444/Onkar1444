@@ -83,7 +83,7 @@
 
 <!-- Cool Animation -->
 <p align="center">
-  <a href="https://github.com/onkar1444"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00F700&center=true&vCenter=true&width=440&height=45&lines=Full+Stack+Developer;DevOps+Enthusiast;Cloud+Computing+Explorer;Community+Builder" alt="Typing Animation"></a>
+  <a href="https://github.com/onkar1444"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00F700&center=true&vCenter=true&width=440&height=45&lines=Full+Stack+Developer;Community+Builder" alt="Typing Animation"></a>
 </p>
 
 <!-- Education & Community Section -->
