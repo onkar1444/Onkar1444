@@ -18,7 +18,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Computer Science student and aspiring Full-Stack Developer with growing experience in modern web technologies. Skilled in <b>JavaScript</b>, <b>TypeScript</b>, <b>Python</b>, <b>React.js</b>, <b>Node.js</b>, <b>Express.js</b>, and <b>SQL databases</b> with <b>Prisma ORM</b>. Passionate about cloud infrastructure (<b>AWS</b>) and DevOps practices. Founder of university-recognized Code Crafter 24x7 Student Community. Combining technical expertise with a problem-solving mindset to develop scalable, user-focused applications. 」
+    「 Computer Science student and aspiring Full-Stack Developer with growing experience in modern web technologies. Skilled in <b>JavaScript</b>, <b>TypeScript</b>, <b>Python</b>, <b>React.js</b>, <b>Node.js</b>, <b>Express.js</b>, and <b>SQL databases</b> . Passionate about cloud infrastructure. Combining technical expertise with a problem-solving mindset to develop scalable, user-focused applications. 」
     <br>
     <br>
   </samp>
@@ -40,12 +40,10 @@
 <p>
  <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
 
- ✨ &emsp; Passionate about coding, cloud technology, and sharing knowledge<br/><br/>
+ ✨ &emsp; Passionate about coding, and sharing knowledge<br/><br/>
  💻 &emsp; Working on full-stack web applications with React, Node.js, and TypeScript<br/><br/>
- 🚀 &emsp; Founder of Code Crafter 24x7, a university-recognized tech community<br/><br/>
- 🌱 &emsp; Currently learning cloud architecture (AWS) and DevOps practices<br/><br/>
- 💬 &emsp; Ask me about: Web development, AWS, and community building<br/><br/>
- 📧 &emsp; Reach out: dipakrathodo.tech@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about: Web development, and community building<br/><br/>
+ 📧 &emsp; Reach out: onkarrathod1825@gmail.com<br/><br/>
  💼 &emsp; <a href="https://linkedin.com/in/onkarrathod-tech">Connect on LinkedIn</a>
 
 </p>
@@ -63,7 +61,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -77,14 +74,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
@@ -97,7 +89,7 @@
 <!-- Education & Community Section -->
 ## Education & Community
 
-- 🎓 **BTech (Master of Technology)**  
+- 🎓 **BTech (Bachelor of Technology)**  
   Dr. Babasaheb Ambedkar Technological University , 2023-2027
   
 
